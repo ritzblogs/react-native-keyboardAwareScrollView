@@ -2,6 +2,8 @@
 
 ![demo](https://github.com/ritzblogs/react-native-keyboardAwareScrollView/blob/master/keyboardAwareScrollView.png)  
 
+Find detailed description - https://abodeofmystories.blogspot.com/2020/06/KeyboardAwareScrollView-example-react-native.html
+
 ## Install at local
 Open Terminal, then type command:  
 > git clone  https://github.com/ritzblogs/react-native-keyboardAwareScrollView.git
